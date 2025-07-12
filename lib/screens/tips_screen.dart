@@ -1,0 +1,1 @@
+<actual tips screen code here>
